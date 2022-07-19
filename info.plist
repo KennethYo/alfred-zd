@@ -87,8 +87,10 @@
 		<key>APP_SECRET</key>
 		<string>MnUxMkdvM0hyL0hMaWxURkgzdGMwdz09</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>1.0-alpha01</string>
+	<string>1.0-alpha1</string>
 	<key>webaddress</key>
 	<string>https://github.com/KennethYo/alfred-zd</string>
 </dict>
