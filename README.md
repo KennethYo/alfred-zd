@@ -1,2 +1,2 @@
-# alfred-xh
-Alfred 3 workflow Chinese dictionary
+# alfred-zd
+汉语字典。
